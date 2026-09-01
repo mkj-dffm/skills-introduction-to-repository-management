@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @mkj-dffm
+/src/backend/database.py      @mkj-dffm
+/src/backend/routers/auth.py  @mkj-dffm
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @mkj-dffm
